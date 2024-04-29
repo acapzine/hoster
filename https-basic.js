@@ -1,5 +1,5 @@
 /*
-this is a basic https server that works specifically with https; if you want just a regular http server, check the script called "basic.js"
+this is a basic https server that works specifically with https; if you want just a regular http server, check the script called "http-basic.js"
 */
 
 var https = require('https');
